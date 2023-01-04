@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Semaforo emocional.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -156,7 +156,7 @@
       "publish:Publish changes": false
     }
   },
-  "active": "7af62e3b0caa55f9",
+  "active": "ee37379b2ec0867e",
   "lastOpenFiles": [
     "Semaforo emocional.md",
     "Untitled.md",

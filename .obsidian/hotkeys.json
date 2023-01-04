@@ -15,7 +15,8 @@
       "key": "T"
     }
   ],
-  "obsidian-git:commit": [
+  "obsidian-git:commit": [],
+  "obsidian-git:open-git-view": [
     {
       "modifiers": [
         "Mod"
@@ -23,20 +24,5 @@
       "key": "1"
     }
   ],
-  "obsidian-git:open-git-view": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "2"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "3"
-    }
-  ]
+  "obsidian-git:push2": []
 }

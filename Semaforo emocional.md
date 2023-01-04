@@ -17,7 +17,7 @@ En caso de que una de las opciones seleccionadas sea un sub menu, entonces al se
 
 Por otra parte, existirán dos botones, uno para guardar y otro para reiniciar el status.
 
-La forma en la que interactuaran el front y el back será de la siguiente manera123:
+La forma en la que interactuaran el front y el back será de la siguiente manera:
 
 ``` mermaid
 sequenceDiagram
