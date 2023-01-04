@@ -128,14 +128,21 @@
                 "file": "Semaforo emocional.md"
               }
             }
+          },
+          {
+            "id": "ee37379b2ec0867e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +156,10 @@
       "publish:Publish changes": false
     }
   },
-  "active": "1f77971767b9647d",
+  "active": "7af62e3b0caa55f9",
   "lastOpenFiles": [
-    "Untitled.md",
     "Semaforo emocional.md",
+    "Untitled.md",
     "No empieces una platica con una broma.md",
     "Resuelve/Tabla de amortización del cliente.md",
     "Literature/Es buena idea poner un caballo delante de dos peones pasados.md",
