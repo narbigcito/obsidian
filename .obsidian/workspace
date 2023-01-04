@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "6ab838141acac1c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c187958f3b351fc",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1590486e885e029",
+    "type": "split",
+    "children": [
+      {
+        "id": "100d6b69d5dc5bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f77971767b9647d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3af7e26b700ea50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee87123a7a9691a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "a4a0bfa36d548ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bb0b27dceac7c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95b8f63538032196",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "413a188d07469b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f3485ee9587d1bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "904772e99347026c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0c187958f3b351fc",
+  "lastOpenFiles": [
+    "Los textos que escribamos deben estar dirigidos a la comunidad actual.md",
+    "Para escribir algo de valor, es vital conocer a los lectores.md",
+    "Es mucho más valioso argumentar que explicar.md",
+    "Es mejor tener información valiosa que información nueva.md",
+    "Escribir no es comunicar tus ideas.md",
+    "Descargar un video de Youtube fácilmente.md",
+    "Prostitución.md",
+    "¿Cómo ser un buen líder?.md",
+    "Es imposible violar a una mujer viciosa.md",
+    "2022-11-16.md"
+  ]
+}

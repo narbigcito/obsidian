@@ -1,0 +1,18 @@
+# ¿Podemos predecir el futuro?
+
+Created: 07-08-2022 02:47
+
+## <span class="pink"> **Idea** </span>
+
+
+## <span class="orange"> **Tags**</span>
+<span class="tag"> #visible</span> 
+
+## <span class="green"> **References**</span>
+<span class="blue"> **West: similar** </span>
+<span class="blue"> **East: opposite** </span>
+<span class="blue"> **North: theme/ question** </span>
+<span class="blue"> **South: what does this lead to** </span>
+
+### <span class="purple"> **Sources**</span>
+1. 
