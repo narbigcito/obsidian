@@ -4,17 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "852f7c77eed1c151",
+        "id": "c276e2e1b192de22",
         "type": "tabs",
         "children": [
           {
-            "id": "7af62e3b0caa55f9",
+            "id": "5053beb017fae764",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "62ba61e3fa9a6dc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Semaforo emocional.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56a284629b8b635a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La sexualidad se encuentra en la oscuridad.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8abef76cd735d10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q E C.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semaforo emocional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semaforo emocional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Semaforo emocional.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,17 +184,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "ee37379b2ec0867e",
+  "active": "5053beb017fae764",
   "lastOpenFiles": [
+    "La sexualidad se encuentra en la oscuridad.md",
     "Semaforo emocional.md",
-    "Untitled.md",
-    "No empieces una platica con una broma.md",
+    "Q E C.md",
+    "Resuelve/¿Cómo se cálculan los montos restantes de un crédito abierto?.md",
+    "Resuelve/Seguro de vida.md",
+    "Resuelve/Cuotas.md",
+    "Resuelve/Tabla de amortización.md",
+    "Resuelve/Tabla de amortización teórica..md",
     "Resuelve/Tabla de amortización del cliente.md",
-    "Literature/Es buena idea poner un caballo delante de dos peones pasados.md",
-    "DXM Primer Stage.md",
-    "Resuelve/Crédito.md",
-    "Universo.md",
-    "Templates/Character Template.md",
-    "Mientras más elementos se agreguen a un sistema más complejo se hará el sistema.md"
+    "Resuelve/Intereses Moratorios.md"
   ]
 }

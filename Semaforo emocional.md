@@ -4,7 +4,7 @@ Created: 03-01-2023 21:38
 ## <span class="pink"> **Idea** </span>
 Es un menú que permite indicar información sobre el cliente, existen varios posibles atributos incluyendo sub menus que dependen del status, los valores aceptados son los siguientes:
 
-> [!Diagrama de status]-
+> [!Diagrama de status]
 > ![[Pasted image 20230103220202.png]]
 
 
