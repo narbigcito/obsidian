@@ -2,7 +2,6 @@ Created: {{date}} {{time}}
 
 ## <span class="pink"> **Idea** </span>
 
-
 ## <span class="orange"> **Tags**</span>
 <span class="tag"> #visible</span> 
 
