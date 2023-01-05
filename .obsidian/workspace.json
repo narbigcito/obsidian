@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5053beb017fae764",
+            "id": "a1447d51bb7c991c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -21,32 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semaforo emocional.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56a284629b8b635a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La sexualidad se encuentra en la oscuridad.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8abef76cd735d10d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q E C.md",
-                "mode": "preview",
+                "file": "Ondas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -184,17 +160,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "5053beb017fae764",
+  "active": "a1447d51bb7c991c",
   "lastOpenFiles": [
-    "La sexualidad se encuentra en la oscuridad.md",
     "Semaforo emocional.md",
-    "Q E C.md",
-    "Resuelve/¿Cómo se cálculan los montos restantes de un crédito abierto?.md",
-    "Resuelve/Seguro de vida.md",
-    "Resuelve/Cuotas.md",
-    "Resuelve/Tabla de amortización.md",
-    "Resuelve/Tabla de amortización teórica..md",
-    "Resuelve/Tabla de amortización del cliente.md",
-    "Resuelve/Intereses Moratorios.md"
+    "Ondas.md",
+    "Energía.md",
+    "Masa.md",
+    "Gatos.md",
+    "Rana.md",
+    "La sexualidad se encuentra en la oscuridad.md",
+    "Rojo Córdova.md",
+    "Yeudiel infante.md",
+    "Vacío.md"
   ]
 }
