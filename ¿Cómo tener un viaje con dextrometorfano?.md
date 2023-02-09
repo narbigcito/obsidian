@@ -1,5 +1,3 @@
-# ¿Cómo tener un viaje con dextrometorfano?
-
 Created: 03-08-2022 17:10
 
 ## <span class="pink"> **Idea:** </span>

@@ -19,7 +19,7 @@ Actualmente existen tres tipos:
 
 ### ¿Cómo se genera?
 
-Dentro del sistema de [[Abaco]] Se genera una estructura en la cuál se generan las fechas esperadas para el plazo dado. A esas fechas se les conoce cómo [[Cuotas]].
+Dentro del sistema de [[Resuelve/Abaco]] Se genera una estructura en la cuál se generan las fechas esperadas para el plazo dado. A esas fechas se les conoce cómo [[Cuotas]].
 
 > [!example]
 > 

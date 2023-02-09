@@ -16,7 +16,7 @@ Está construido en [[Elixir]] y [[Phoenix]].
 
 ## <span class="green"> **References**</span>
 <span class="blue"> **West: similar** </span>
-[[Abaco]]
+[[Resuelve/Abaco]]
 [[Algoritmo]]
 <span class="blue"> **East: opposite** </span>
 <span class="blue"> **North: theme/ question** </span>
