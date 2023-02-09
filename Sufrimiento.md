@@ -1,19 +1,15 @@
 Created: 04-02-2023 02:48
 
 ## <span class="pink"> **Idea** </span>
-Para muchas filosofías, el deseo es la raíz de todos los males.
+Para muchas filosofías, como el [[hinduismo]], el [[budismo]] o el [[estoicismo]], el deseo es la raíz de todos los males.
 
-El deseo induce al sufrimiento.
+El deseo conduce al sufrimiento.
 
 Pero existen 3 aspectos comunes en el sufrimiento del [[ser]] humano:
 
-- Males físicos:
-	La muerte, el dolor y las dificultades para encontrar los medios necesarios para vivir.
-* Defectos de carácter:
-	Ignorancia, falta de voluntad, comportamientos violentos.
-* Relaciones de poder:
-	Discriminación, tiranía, guerra.
-
+![[Males físicos#<span class="pink"> **Males físicos** </span>]]
+![[Defectos de carácter#<span class="pink"> **Defectos de carácter** </span>]]
+![[Abuso de poder#<span class="pink"> **Relaciones de poder** </span>]]
 ## <span class="orange"> **Tags**</span>
 <span class="tag"> #visible</span> 
 
@@ -21,6 +17,7 @@ Pero existen 3 aspectos comunes en el sufrimiento del [[ser]] humano:
 <span class="blue"> **West: similar** </span>
 [[Los creadores necesitan 3 cosas]]
 [[El poder genera nuevas formas de conocimiento]]
+[[Abuso de poder]]
 <span class="blue"> **East: opposite** </span>
 <span class="blue"> **North: theme/ question** </span>
 <span class="blue"> **South: what does this lead to** </span>
