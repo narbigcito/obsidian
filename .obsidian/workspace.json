@@ -74,6 +74,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e5e1f35613097cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acordes disminuidos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -215,15 +227,15 @@
   },
   "active": "8a34feda1571100e",
   "lastOpenFiles": [
+    "Acordes disminuidos.md",
+    "Acordes.md",
+    "Acordes menores.md",
+    "Acordes mayores.md",
     "¿Cómo escribir un manifiesto?.md",
     "Sufrimiento.md",
     "Defectos de carácter.md",
     "Males físicos.md",
     "Fleeting/¿Podemos predecir el futuro?.md",
-    "Manifiesto.md",
-    "Abuso de poder.md",
-    "Ser.md",
-    "El poder genera nuevas formas de conocimiento.md",
-    "CCB Workflow.md"
+    "Manifiesto.md"
   ]
 }
