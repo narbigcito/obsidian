@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f42b4d69c39e160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting/¿Podemos predecir el futuro?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2d53c1c30ba47931",
             "type": "leaf",
             "state": {
@@ -27,26 +15,6 @@
               "state": {
                 "file": "CCB Workflow.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac228e21a7439db",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "00f474fffb727070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manifiesto.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -64,13 +32,49 @@
             }
           },
           {
-            "id": "8a34feda1571100e",
+            "id": "1f42b4d69c39e160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acordes.md",
+                "file": "Fleeting/¿Podemos predecir el futuro?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61a84473e727adff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cómo vivir.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7201cf93db58adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto Migala.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00f474fffb727070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manifiesto.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -142,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acordes.md",
+                "file": "Manifiesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acordes.md",
+                "file": "Manifiesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acordes.md"
+                "file": "Manifiesto.md"
               }
             }
           },
@@ -213,17 +217,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "8a34feda1571100e",
+  "active": "00f474fffb727070",
   "lastOpenFiles": [
-    "No empieces una platica con una broma.md",
-    "Terminar una conferencia con un repaso.md",
-    "Acordes disminuidos.md",
-    "Acordes.md",
-    "Acordes menores.md",
-    "Acordes mayores.md",
+    "Fleeting/¿Podemos predecir el futuro?.md",
+    "CCB Workflow.md",
+    "Proyecto Migala.md",
+    "Cómo vivir.md",
+    "deseo sexual.md",
     "¿Cómo escribir un manifiesto?.md",
-    "Sufrimiento.md",
-    "Defectos de carácter.md",
-    "Males físicos.md"
+    "Saber comunicarse conduce al exito.md",
+    "El miedo suele ser mayor que la esperanza.md",
+    "Apreciación de la comunidad.md",
+    "Los creadores necesitan 3 cosas.md"
   ]
 }
