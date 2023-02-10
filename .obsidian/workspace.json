@@ -74,18 +74,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e5e1f35613097cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acordes disminuidos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 5
@@ -227,6 +215,8 @@
   },
   "active": "8a34feda1571100e",
   "lastOpenFiles": [
+    "No empieces una platica con una broma.md",
+    "Terminar una conferencia con un repaso.md",
     "Acordes disminuidos.md",
     "Acordes.md",
     "Acordes menores.md",
@@ -234,8 +224,6 @@
     "¿Cómo escribir un manifiesto?.md",
     "Sufrimiento.md",
     "Defectos de carácter.md",
-    "Males físicos.md",
-    "Fleeting/¿Podemos predecir el futuro?.md",
-    "Manifiesto.md"
+    "Males físicos.md"
   ]
 }
