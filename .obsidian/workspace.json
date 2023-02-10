@@ -64,12 +64,12 @@
             }
           },
           {
-            "id": "7025a7b96a61d016",
+            "id": "8a34feda1571100e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sufrimiento.md",
+                "file": "Acordes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sufrimiento.md",
+                "file": "Acordes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sufrimiento.md",
+                "file": "Acordes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sufrimiento.md"
+                "file": "Acordes.md"
               }
             }
           },
@@ -213,14 +213,14 @@
       "publish:Publish changes": false
     }
   },
-  "active": "ee37379b2ec0867e",
+  "active": "8a34feda1571100e",
   "lastOpenFiles": [
-    "Defectos de carácter.md",
+    "¿Cómo escribir un manifiesto?.md",
     "Sufrimiento.md",
+    "Defectos de carácter.md",
     "Males físicos.md",
     "Fleeting/¿Podemos predecir el futuro?.md",
     "Manifiesto.md",
-    "¿Cómo escribir un manifiesto?.md",
     "Abuso de poder.md",
     "Ser.md",
     "El poder genera nuevas formas de conocimiento.md",
