@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0af024ef53c970d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problemas comunes en la comunicación..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee47f61b403e58a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Las células evitan aleatoridad.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c6fc82f4bafaa89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problemas psicologicos del lenguaje.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -130,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 420.5
   },
   "right": {
     "id": "a4a0bfa36d548ac3",
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifiesto.md",
+                "file": "Problemas psicologicos del lenguaje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifiesto.md",
+                "file": "Problemas psicologicos del lenguaje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifiesto.md"
+                "file": "Problemas psicologicos del lenguaje.md"
               }
             }
           },
@@ -217,17 +253,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "00f474fffb727070",
+  "active": "1c6fc82f4bafaa89",
   "lastOpenFiles": [
-    "Fleeting/¿Podemos predecir el futuro?.md",
     "CCB Workflow.md",
+    "Problemas psicologicos del lenguaje.md",
+    "Las células evitan aleatoridad.md",
+    "Problemas personales de comunicación.md",
+    "Problemas comunes en la comunicación..md",
+    "Problemas de comunicación y ego.md",
+    "Manifiesto.md",
+    "Fleeting/¿Podemos predecir el futuro?.md",
     "Proyecto Migala.md",
-    "Cómo vivir.md",
-    "deseo sexual.md",
-    "¿Cómo escribir un manifiesto?.md",
-    "Saber comunicarse conduce al exito.md",
-    "El miedo suele ser mayor que la esperanza.md",
-    "Apreciación de la comunidad.md",
-    "Los creadores necesitan 3 cosas.md"
+    "Cómo vivir.md"
   ]
 }
