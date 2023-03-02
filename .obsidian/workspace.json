@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manifiesto.md",
-                "mode": "source",
+                "file": "Espacio.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -114,9 +114,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f89e9fbb3238fb5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problemas psicologicos del lenguaje.md",
+                "file": "Espacio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problemas psicologicos del lenguaje.md",
+                "file": "Espacio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problemas psicologicos del lenguaje.md"
+                "file": "Espacio.md"
               }
             }
           },
@@ -253,17 +261,18 @@
       "publish:Publish changes": false
     }
   },
-  "active": "1c6fc82f4bafaa89",
+  "active": "00f474fffb727070",
   "lastOpenFiles": [
+    "Manifiesto.md",
+    "Proyecto Migala.md",
+    "Cómo vivir.md",
+    "Fleeting/¿Podemos predecir el futuro?.md",
+    "¿Cómo escribir un manifiesto?.md",
     "CCB Workflow.md",
     "Problemas psicologicos del lenguaje.md",
     "Las células evitan aleatoridad.md",
     "Problemas personales de comunicación.md",
     "Problemas comunes en la comunicación..md",
-    "Problemas de comunicación y ego.md",
-    "Manifiesto.md",
-    "Fleeting/¿Podemos predecir el futuro?.md",
-    "Proyecto Migala.md",
-    "Cómo vivir.md"
+    "Problemas de comunicación y ego.md"
   ]
 }

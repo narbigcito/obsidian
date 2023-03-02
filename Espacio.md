@@ -1,8 +1,9 @@
-# Espacio
 
 Created: 13-09-2022 04:46
 
 ## <span class="pink"> **Idea** </span>
+Se puede definir el espacio como la condición de posibilidad de los fenómenos.
+
 
 ![[Vacío#span class pink Vacío span]]
 
