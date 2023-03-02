@@ -5,6 +5,9 @@ Estudios han demostrado que el comportamiento de las células buscan reducir la 
 
 Esto implica que constantemente aprenden cómo su entrono cambia y predicen su comportamiento. A su vez realizan acciones que hagan que su comportamiento sea más predecible.
 
+ ![[The free-energy principle - a rough guide to the brain.pdf]]
+ ![[PIIS0896627322008066.pdf]]
+
 ## <span class="orange"> **Tags**</span>
 <span class="tag"> #visible</span> 
 
@@ -19,4 +22,4 @@ Esto implica que constantemente aprenden cómo su entrono cambia y predicen su c
 <span class="blue"> **South: what does this lead to** </span>
 
 ### <span class="purple"> **Sources**</span>
-1. 
+1.

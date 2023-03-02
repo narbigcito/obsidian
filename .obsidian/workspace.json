@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "00f474fffb727070",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Espacio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0af024ef53c970d0",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "Las células evitan aleatoridad.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,17 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f89e9fbb3238fb5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -190,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Espacio.md",
+                "file": "Las células evitan aleatoridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Espacio.md",
+                "file": "Las células evitan aleatoridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -230,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Espacio.md"
+                "file": "Las células evitan aleatoridad.md"
               }
             }
           },
@@ -261,17 +241,19 @@
       "publish:Publish changes": false
     }
   },
-  "active": "00f474fffb727070",
+  "active": "ee47f61b403e58a1",
   "lastOpenFiles": [
-    "Vacío.md",
+    "atachment/PIIS0896627322008066.pdf",
+    "atachment/The free-energy principle - a rough guide to the brain.pdf",
+    "Problemas psicologicos del lenguaje.md",
     "Espacio.md",
+    "Vacío.md",
     "Manifiesto.md",
     "Proyecto Migala.md",
     "Cómo vivir.md",
     "Fleeting/¿Podemos predecir el futuro?.md",
     "¿Cómo escribir un manifiesto?.md",
     "CCB Workflow.md",
-    "Problemas psicologicos del lenguaje.md",
     "Las células evitan aleatoridad.md",
     "Problemas personales de comunicación.md",
     "Problemas comunes en la comunicación..md",
