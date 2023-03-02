@@ -1,12 +1,11 @@
-# Vacío
 
 Created: 13-09-2022 01:31
 
 ## <span class="pink"> **Vacío** </span>
 
- [[Vacío]] es tal cuál [[Espacio]], con la diferencia de qué el vacío hace referencia comúnmente a un espacio sin [[Materia]] ni [[Partículas]] de ningún tipo.
+ El [[Vacío]] hace referencia a un [[Espacio]] sin [[Materia]] de ningún tipo.
 
-El vacío es aquello que sostiene tanto a la [[Materia]] cómo a la energía. Pareciera tener la forma de una red de al menos cuatro dimensiones y no permite que algo viaje través de él más rápido qué la [[Velocidad de la luz]].
+El vacío en el mundo empírico, sostiene tanto a la [[Materia]] cómo a la energía. Pareciera tener la forma de una red de al menos cuatro dimensiones y no permite que algo viaje través de él más rápido qué la [[Velocidad de la luz]].
 
 No se sabe cuál es la cantidad minima de espacio vacío qué puede existir, o si simplemente no hay límite.
 

@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "Espacio.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -263,6 +263,8 @@
   },
   "active": "00f474fffb727070",
   "lastOpenFiles": [
+    "Vacío.md",
+    "Espacio.md",
     "Manifiesto.md",
     "Proyecto Migala.md",
     "Cómo vivir.md",

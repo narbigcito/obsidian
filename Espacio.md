@@ -23,4 +23,4 @@ Se puede definir el espacio como la condición de posibilidad de los fenómenos.
 <span class="blue"> **South: what does this lead to** </span>
 [[Gravedad]]
 ### <span class="purple"> **Sources**</span>
-1. 
+1. Crítica a la razón pura, Emanuel Kant
