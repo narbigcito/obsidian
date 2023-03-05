@@ -8,7 +8,17 @@
 		{"id":"32dca974dc88fb2a","x":-600,"y":172,"width":400,"height":400,"type":"file","file":"Hecho.md"},
 		{"id":"4ff3b88c77702c78","x":260,"y":-21,"width":141,"height":132,"type":"file","file":"atachment/Pasted image 20230305071149.png"},
 		{"id":"6b0df903aa07f5d9","x":206,"y":-345,"width":250,"height":220,"type":"text","text":"Si tuvieramos un conjunto con todos los hechos que están ocurriendo en este universo. Esté conjunto tendría solamente un elemento"},
-		{"id":"f740ad4bccd83f54","x":206,"y":172,"width":250,"height":148,"type":"text","text":"Si tuvieramos un conjunto con todos los hechos que no están ocurriendo, tendríamos 99 elementos"}
+		{"id":"f740ad4bccd83f54","x":206,"y":172,"width":250,"height":148,"type":"text","text":"Si tuvieramos un conjunto con todos los hechos que no están ocurriendo, tendríamos 99 elementos"},
+		{"id":"081f0ead4d10536c","x":575,"y":-100,"width":250,"height":170,"type":"text","text":"Si observamos con atención podremos ver que el conjunto de lo que ocurre y el conjunto de lo que no ocurre, son simétricos"},
+		{"id":"dba89a7e2dd34202","x":936,"y":-47,"width":250,"height":187,"type":"text","text":"De tal forma que viendo un estado, podemos saber al mismo tiempo que hechos están ocurriendo y que no ocurriendo"},
+		{"id":"b9846df33fd5658b","x":-100,"y":392,"width":250,"height":148,"type":"text","text":"A la unidad de posibilidad de combinación entre hechos, podemos llamarle estado"},
+		{"id":"428193cc4551d6b4","x":-466,"y":763,"width":400,"height":400,"type":"file","file":"Estados.md"},
+		{"id":"14d24fa3979a2eae","x":1120,"y":224,"width":166,"height":168,"type":"file","file":"atachment/Pasted image 20230305071922.png"},
+		{"type":"file","file":"atachment/Pasted image 20230305071149.png","id":"b30dd7b085133c54","x":895,"y":224,"width":166,"height":156},
+		{"id":"05ca1a3ba0200e49","x":953,"y":520,"width":250,"height":120,"type":"text","text":"Esté modelo simplificado del universo nos permite entender mejor el concepto del espacio"},
+		{"id":"1402d650cab4a841","x":953,"y":700,"width":250,"height":120,"type":"text","text":"Podemos entender el espacio como la relación entre dos fenómenos"},
+		{"id":"8933facff66f96de","x":953,"y":889,"width":250,"height":111,"type":"text","text":"También podemos verlo como la diferenciación entre el ser y no ser\n"},
+		{"id":"0d74ee1ab46f96d1","x":206,"y":563,"width":400,"height":400,"type":"file","file":"Fenómenos.md"}
 	],
 	"edges":[
 		{"id":"0928b720171b4ce2","fromNode":"2fca42b715e55885","fromSide":"bottom","toNode":"2074e436a0e6db31","toSide":"top"},
@@ -18,6 +28,17 @@
 		{"id":"caba248d3a86a444","fromNode":"7bb6e109cc5838f2","fromSide":"bottom","toNode":"32dca974dc88fb2a","toSide":"top"},
 		{"id":"21e175706a08456c","fromNode":"7bb6e109cc5838f2","fromSide":"right","toNode":"4ff3b88c77702c78","toSide":"left"},
 		{"id":"612bbb16e1af41c6","fromNode":"4ff3b88c77702c78","fromSide":"top","toNode":"6b0df903aa07f5d9","toSide":"bottom"},
-		{"id":"42ac2197cbb2b1f0","fromNode":"4ff3b88c77702c78","fromSide":"bottom","toNode":"f740ad4bccd83f54","toSide":"top"}
+		{"id":"42ac2197cbb2b1f0","fromNode":"4ff3b88c77702c78","fromSide":"bottom","toNode":"f740ad4bccd83f54","toSide":"top"},
+		{"id":"0fcdea0041a90d1d","fromNode":"4ff3b88c77702c78","fromSide":"right","toNode":"081f0ead4d10536c","toSide":"left"},
+		{"id":"229fe80f47a4c636","fromNode":"081f0ead4d10536c","fromSide":"right","toNode":"dba89a7e2dd34202","toSide":"left"},
+		{"id":"bfe915864647a52b","fromNode":"4ff3b88c77702c78","fromSide":"bottom","toNode":"b9846df33fd5658b","toSide":"top"},
+		{"id":"f5d31aaaee6ea4df","fromNode":"b9846df33fd5658b","fromSide":"bottom","toNode":"428193cc4551d6b4","toSide":"top"},
+		{"id":"a0960e9825e81fd9","fromNode":"dba89a7e2dd34202","fromSide":"bottom","toNode":"14d24fa3979a2eae","toSide":"top"},
+		{"id":"8378766aa3176644","fromNode":"dba89a7e2dd34202","fromSide":"bottom","toNode":"b30dd7b085133c54","toSide":"top"},
+		{"id":"249b7a18dca4eb4c","fromNode":"b30dd7b085133c54","fromSide":"bottom","toNode":"05ca1a3ba0200e49","toSide":"top"},
+		{"id":"99af31691a2728bc","fromNode":"14d24fa3979a2eae","fromSide":"bottom","toNode":"05ca1a3ba0200e49","toSide":"top"},
+		{"id":"bf2e7f4f63b25974","fromNode":"05ca1a3ba0200e49","fromSide":"bottom","toNode":"1402d650cab4a841","toSide":"top"},
+		{"id":"4dfd12eb08e5b5ea","fromNode":"1402d650cab4a841","fromSide":"bottom","toNode":"8933facff66f96de","toSide":"top"},
+		{"id":"b47942012ea0e1a9","fromNode":"1402d650cab4a841","fromSide":"left","toNode":"0d74ee1ab46f96d1","toSide":"right"}
 	]
 }

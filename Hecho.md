@@ -1,5 +1,3 @@
-# Hecho
-
 Created: 20-08-2022 03:44
 
 ## <span class="pink"> **Idea** </span>

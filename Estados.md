@@ -1,5 +1,3 @@
-# Estados
-
 Created: 13-09-2022 04:14
 
 ## <span class="pink"> **Idea** </span>

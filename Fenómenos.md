@@ -1,4 +1,3 @@
-# Fenómenos
 
 Created: 11-10-2022 03:25
 
