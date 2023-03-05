@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"Imagina que nuestro universo es una matriz de 10x 10","id":"2fca42b715e55885","x":-180,"y":-600,"width":320,"height":60},
+		{"type":"file","file":"atachment/Pasted image 20230305070557.png","id":"2074e436a0e6db31","x":-104,"y":-420,"width":168,"height":159},
+		{"type":"text","text":"Esto representa el espacio","id":"b84bf3d81a1ec7fd","x":-153,"y":-185,"width":250,"height":60},
+		{"id":"5e43dc142d87d9bc","x":-760,"y":-355,"width":400,"height":400,"type":"file","file":"Espacio.md"},
+		{"id":"7bb6e109cc5838f2","x":-151,"y":-50,"width":250,"height":190,"type":"text","text":"Está matriz puede tener tener diferentes configuraciones(fenomenos), los cuales se representan como un cuadro de color"},
+		{"id":"32dca974dc88fb2a","x":-600,"y":172,"width":400,"height":400,"type":"file","file":"Hecho.md"},
+		{"id":"4ff3b88c77702c78","x":260,"y":-21,"width":141,"height":132,"type":"file","file":"atachment/Pasted image 20230305071149.png"},
+		{"id":"6b0df903aa07f5d9","x":206,"y":-345,"width":250,"height":220,"type":"text","text":"Si tuvieramos un conjunto con todos los hechos que están ocurriendo en este universo. Esté conjunto tendría solamente un elemento"},
+		{"id":"f740ad4bccd83f54","x":206,"y":172,"width":250,"height":148,"type":"text","text":"Si tuvieramos un conjunto con todos los hechos que no están ocurriendo, tendríamos 99 elementos"}
+	],
+	"edges":[
+		{"id":"0928b720171b4ce2","fromNode":"2fca42b715e55885","fromSide":"bottom","toNode":"2074e436a0e6db31","toSide":"top"},
+		{"id":"f8e0489ddc2b4a76","fromNode":"2074e436a0e6db31","fromSide":"bottom","toNode":"b84bf3d81a1ec7fd","toSide":"top"},
+		{"id":"40ba0e2fa6d37515","fromNode":"b84bf3d81a1ec7fd","fromSide":"left","toNode":"5e43dc142d87d9bc","toSide":"right"},
+		{"id":"0a028b99071c38b2","fromNode":"b84bf3d81a1ec7fd","fromSide":"bottom","toNode":"7bb6e109cc5838f2","toSide":"top"},
+		{"id":"caba248d3a86a444","fromNode":"7bb6e109cc5838f2","fromSide":"bottom","toNode":"32dca974dc88fb2a","toSide":"top"},
+		{"id":"21e175706a08456c","fromNode":"7bb6e109cc5838f2","fromSide":"right","toNode":"4ff3b88c77702c78","toSide":"left"},
+		{"id":"612bbb16e1af41c6","fromNode":"4ff3b88c77702c78","fromSide":"top","toNode":"6b0df903aa07f5d9","toSide":"bottom"},
+		{"id":"42ac2197cbb2b1f0","fromNode":"4ff3b88c77702c78","fromSide":"bottom","toNode":"f740ad4bccd83f54","toSide":"top"}
+	]
+}

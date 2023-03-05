@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d53c1c30ba47931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCB Workflow.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ea8c035d3c31286",
             "type": "leaf",
             "state": {
@@ -80,12 +68,24 @@
             }
           },
           {
-            "id": "ee47f61b403e58a1",
+            "id": "89c59209da8b1fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Las células evitan aleatoridad.md",
+                "file": "Problemas personales de comunicación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c993c6b553307855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problemas físicos del lenguaje.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +102,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c821714d17d3494",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 321.9402210223674,
+                  "y": 28.87356348395521,
+                  "zoom": 0
+                }
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -154,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 420.5,
+    "collapsed": true
   },
   "right": {
     "id": "a4a0bfa36d548ac3",
@@ -170,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Las células evitan aleatoridad.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Las células evitan aleatoridad.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Las células evitan aleatoridad.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -241,22 +257,26 @@
       "publish:Publish changes": false
     }
   },
-  "active": "ee47f61b403e58a1",
+  "active": "ee37379b2ec0867e",
   "lastOpenFiles": [
-    "atachment/PIIS0896627322008066.pdf",
-    "atachment/The free-energy principle - a rough guide to the brain.pdf",
+    "atachment/Pasted image 20230305071149.png",
+    "atachment/Pasted image 20230305070557.png",
+    "Untitled.canvas",
+    "Problemas físicos del lenguaje.md",
+    "Problemas personales de comunicación.md",
+    "Problemas comunes en la comunicación..md",
     "Problemas psicologicos del lenguaje.md",
-    "Espacio.md",
-    "Vacío.md",
-    "Manifiesto.md",
     "Proyecto Migala.md",
     "Cómo vivir.md",
     "Fleeting/¿Podemos predecir el futuro?.md",
     "¿Cómo escribir un manifiesto?.md",
     "CCB Workflow.md",
     "Las células evitan aleatoridad.md",
-    "Problemas personales de comunicación.md",
-    "Problemas comunes en la comunicación..md",
+    "atachment/PIIS0896627322008066.pdf",
+    "atachment/The free-energy principle - a rough guide to the brain.pdf",
+    "Espacio.md",
+    "Vacío.md",
+    "Manifiesto.md",
     "Problemas de comunicación y ego.md"
   ]
 }
