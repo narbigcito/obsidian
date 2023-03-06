@@ -35,8 +35,12 @@
 		{"id":"f3d0704a791556ae","x":400,"y":2486,"width":400,"height":400,"type":"file","file":"Ser.md"},
 		{"id":"0a6860ad3a47f2c4","x":920,"y":2900,"width":125,"height":126,"type":"file","file":"atachment/Pasted image 20230305075942.png"},
 		{"id":"3e4019bb21a9f411","x":1100,"y":2900,"width":126,"height":126,"type":"file","file":"atachment/Pasted image 20230305080109.png"},
-		{"id":"d1abe5c309e8491e","x":1000,"y":3120,"width":125,"height":124,"type":"file","file":"atachment/Pasted image 20230305075920.png"},
-		{"id":"c7b88124da834840","x":1260,"y":3115,"width":250,"height":129,"type":"text","text":"Estos fenómenos están muy alejados de llevarnos al mismo estado"}
+		{"id":"d1abe5c309e8491e","x":1028,"y":3120,"width":125,"height":124,"type":"file","file":"atachment/Pasted image 20230305075920.png"},
+		{"id":"c7b88124da834840","x":1226,"y":3118,"width":250,"height":129,"type":"text","text":"Estos fenómenos están muy alejados de llevarnos al mismo estado"},
+		{"id":"c626b22d725dc462","x":965,"y":3344,"width":250,"height":176,"type":"text","text":"Una vez que hemos definido el concepto de espacio, simplifiquemos el modelo de nuestro universo a una matriz de 2x2"},
+		{"id":"ee968b572970171d","x":760,"y":3370,"width":121,"height":124,"type":"file","file":"atachment/Pasted image 20230305222012.png"},
+		{"id":"69245f4392b7dd79","x":438,"y":3402,"width":250,"height":60,"type":"text","text":"Esté universo puede tener 16 estados diferentes"},
+		{"id":"aaf36834af756943","x":-100,"y":3232,"width":400,"height":400,"type":"file","file":"atachment/Pasted image 20230305225500.png"}
 	],
 	"edges":[
 		{"id":"0928b720171b4ce2","fromNode":"2fca42b715e55885","fromSide":"bottom","toNode":"2074e436a0e6db31","toSide":"top"},
@@ -78,6 +82,10 @@
 		{"id":"f1bfa932b5adbc23","fromNode":"9b61d14ba7d1ec89","fromSide":"bottom","toNode":"3e4019bb21a9f411","toSide":"top"},
 		{"id":"374185c7a364cb03","fromNode":"0a6860ad3a47f2c4","fromSide":"bottom","toNode":"d1abe5c309e8491e","toSide":"top"},
 		{"id":"9cb608489783b175","fromNode":"3e4019bb21a9f411","fromSide":"bottom","toNode":"d1abe5c309e8491e","toSide":"top"},
-		{"id":"379eb7644a4fd470","fromNode":"d1abe5c309e8491e","fromSide":"right","toNode":"c7b88124da834840","toSide":"left"}
+		{"id":"379eb7644a4fd470","fromNode":"d1abe5c309e8491e","fromSide":"right","toNode":"c7b88124da834840","toSide":"left"},
+		{"id":"5217a3b3dfa851a3","fromNode":"d1abe5c309e8491e","fromSide":"bottom","toNode":"c626b22d725dc462","toSide":"top"},
+		{"id":"3fd6cbcc3121d5c1","fromNode":"c626b22d725dc462","fromSide":"left","toNode":"ee968b572970171d","toSide":"right"},
+		{"id":"3717b34fcffeebb0","fromNode":"ee968b572970171d","fromSide":"left","toNode":"69245f4392b7dd79","toSide":"right"},
+		{"id":"743b2d198b9d0fce","fromNode":"69245f4392b7dd79","fromSide":"left","toNode":"aaf36834af756943","toSide":"right"}
 	]
 }
