@@ -109,17 +109,29 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Simulación universo.canvas",
                 "viewState": {
-                  "x": 427.9948922669244,
-                  "y": 3163.1012424400874,
-                  "zoom": -0.8901414032777184
+                  "x": 22.54429590165033,
+                  "y": 72.71426109798267,
+                  "zoom": -0.24777209838231748
                 }
+              }
+            }
+          },
+          {
+            "id": "6e238a3e3e926725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "¿Cómo dar apoyo emocional a un trabajador sexual?.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "¿Cómo dar apoyo emocional a un trabajador sexual?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "¿Cómo dar apoyo emocional a un trabajador sexual?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "¿Cómo dar apoyo emocional a un trabajador sexual?.md"
               }
             }
           },
@@ -257,28 +269,28 @@
       "publish:Publish changes": false
     }
   },
-  "active": "7c821714d17d3494",
+  "active": "6e238a3e3e926725",
   "lastOpenFiles": [
-    "atachment/Pasted image 20230305225500.png",
-    "atachment/Pasted image 20230305222012.png",
-    "atachment/Pasted image 20230305080109.png",
-    "atachment/Pasted image 20230305075942.png",
-    "atachment/Pasted image 20230305075920.png",
-    "atachment/Pasted image 20230305075243.png",
-    "atachment/Pasted image 20230305075105.png",
-    "atachment/Pasted image 20230305074409.png",
-    "atachment/Pasted image 20230305071922.png",
-    "atachment/Pasted image 20230305071149.png",
-    "atachment/Pasted image 20230305070557.png",
-    "Untitled.canvas",
+    "¿Cómo dar apoyo emocional a un trabajador sexual?.md",
+    "Fleeting/¿Podemos predecir el futuro?.md",
+    "¿Cómo escribir un manifiesto?.md",
+    "Simulación universo.canvas",
+    "atachment/Pasted image 20230306022429.png",
+    "atachment/Pasted image 20230306022357.png",
+    "atachment/Pasted image 20230306022256.png",
+    "atachment/Pasted image 20230306021917.png",
+    "atachment/Pasted image 20230306021827.png",
+    "atachment/Pasted image 20230306021642.png",
+    "atachment/Pasted image 20230306021409.png",
+    "atachment/Pasted image 20230306013422.png",
+    "atachment/Pasted image 20230306013346.png",
+    "atachment/Pasted image 20230306013216.png",
     "Problemas físicos del lenguaje.md",
     "Problemas personales de comunicación.md",
     "Problemas comunes en la comunicación..md",
     "Problemas psicologicos del lenguaje.md",
     "Proyecto Migala.md",
     "Cómo vivir.md",
-    "Fleeting/¿Podemos predecir el futuro?.md",
-    "¿Cómo escribir un manifiesto?.md",
     "CCB Workflow.md",
     "Las células evitan aleatoridad.md",
     "atachment/PIIS0896627322008066.pdf",

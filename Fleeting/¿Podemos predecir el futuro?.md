@@ -1,8 +1,14 @@
-# ¿Podemos predecir el futuro?
 
 Created: 07-08-2022 02:47
 
 ## <span class="pink"> **Idea** </span>
+Imaginemos que existe un mago que puede predecir el futuro.
+
+El mago tiene dos cajas frente a él, una abierta y una cerrada.
+
+La caja abierta tiene un dolar.
+
+La caja cerrada puede tener 0 o un 1 000 dolares
 
 
 ## <span class="orange"> **Tags**</span>
