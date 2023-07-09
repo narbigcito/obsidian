@@ -107,9 +107,11 @@
             "id": "6e3d6f0cacacd3e3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Historia de la sexualidad, V1 La voluntad de saber.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -188,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifiesto.md",
+                "file": "Historia de la sexualidad, V1 La voluntad de saber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifiesto.md",
+                "file": "Historia de la sexualidad, V1 La voluntad de saber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifiesto.md"
+                "file": "Historia de la sexualidad, V1 La voluntad de saber.md"
               }
             }
           },
