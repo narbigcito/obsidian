@@ -95,19 +95,26 @@
             "id": "7c821714d17d3494",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Simulación universo.canvas",
-                "viewState": {
-                  "x": 22.54429590165033,
-                  "y": 418.97926506594195,
-                  "zoom": -0.24777209838231748
-                }
+                "file": "Manifiesto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e3d6f0cacacd3e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -152,6 +159,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "9640f7a5fde7afff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -173,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problemas de comunicación y ego.md",
+                "file": "Manifiesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problemas de comunicación y ego.md",
+                "file": "Manifiesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problemas de comunicación y ego.md"
+                "file": "Manifiesto.md"
               }
             }
           },
@@ -234,24 +249,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "publish:Publish changes": false
+      "random-note:Open random note": false
     }
   },
-  "active": "89c59209da8b1fc2",
+  "active": "6e3d6f0cacacd3e3",
   "lastOpenFiles": [
-    "Historia de la sexualidad, V1 La voluntad de saber.md",
     "Simulación universo.canvas",
+    "Problemas de comunicación y ego.md",
+    "Historia de la sexualidad, V1 La voluntad de saber.md",
     "¿Cómo escribir un manifiesto?.md",
     "Problemas físicos del lenguaje.md",
     "Problemas psicologicos del lenguaje.md",
-    "Problemas de comunicación y ego.md",
     "Problemas comunes en la comunicación..md",
     "Proyecto Migala.md",
     "Problemas personales de comunicación.md",

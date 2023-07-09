@@ -23,6 +23,12 @@ Me sorprendió debido a que Nietzsche solo estaba haciendo un aforismo que se re
 Pero las personas prefirieron tomar la frase de manera literal. Este es un error muy común de como a veces nuestro ego, querer tener la razón, querer hacer comentarios que consideramos originales nos impiden escuchar a los demás y también responder a aquello que nos están preguntando.
 
 Existen algunos otros problemas de comunicación mucho más comunes pero que considero son bien sabidos por la mayoría y no me parece necesario profundizar, por ejemplo,  querer tener la razón, resistencia a recibir retroalimentación o la falta de empatía.
+
+Nos han enseñado a explicar cosas con el objetivo de demostrar que las entendemos
+No han hecho creer que explicar algo es revelar al mundo en interior de nuestra cabeza pero a nadie le importa que hay en tu cabeza
+
+Explicar no es comunicar a otros tus ideas. Es cambiar la forma en la que el otro percibe el mundo
+
 ## <span class="orange"> **Tags**</span>
 <span class="tag"> #visible</span> 
 
