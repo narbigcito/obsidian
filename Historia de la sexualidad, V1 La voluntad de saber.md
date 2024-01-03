@@ -10,7 +10,7 @@ Esta perspectiva se hace eco de las teorías conductistas, como las propuestas p
 
 También explica diferentes formas de entender la sexualidad y cómo ha sido uno de los principales dispositivos de normalización.
 
-El libro se centra en la relación entre el poder y el conocimiento. Foucault sostiene que la sexualidad no es una realidad biológica innata, sino una construcción social y cultural que se ve afectada por las relaciones de poder. ok
+El libro se centra en la relación entre el poder y el conocimiento. Foucault sostiene que la sexualidad no es una realidad biológica innata, sino una construcción social y cultural que se ve afectada por las relaciones de poder.
 
 ![[Pasted image 20230330175732.png]]
 

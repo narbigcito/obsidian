@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "1c6fc82f4bafaa89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problemas psicologicos del lenguaje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7c821714d17d3494",
             "type": "leaf",
             "state": {
@@ -102,21 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6e3d6f0cacacd3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historia de la sexualidad, V1 La voluntad de saber.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historia de la sexualidad, V1 La voluntad de saber.md",
+                "file": "Problemas de comunicación y ego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historia de la sexualidad, V1 La voluntad de saber.md",
+                "file": "Problemas de comunicación y ego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -230,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historia de la sexualidad, V1 La voluntad de saber.md"
+                "file": "Problemas de comunicación y ego.md"
               }
             }
           },
@@ -261,16 +237,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6e3d6f0cacacd3e3",
+  "active": "89c59209da8b1fc2",
   "lastOpenFiles": [
-    "Simulación universo.canvas",
+    "Los creadores necesitan 3 cosas.md",
+    "Problemas psicologicos del lenguaje.md",
     "Problemas de comunicación y ego.md",
+    "Problemas comunes en la comunicación..md",
+    "Manifiesto.md",
+    "Proyecto Migala.md",
     "Historia de la sexualidad, V1 La voluntad de saber.md",
+    "Simulación universo.canvas",
     "¿Cómo escribir un manifiesto?.md",
     "Problemas físicos del lenguaje.md",
-    "Problemas psicologicos del lenguaje.md",
-    "Problemas comunes en la comunicación..md",
-    "Proyecto Migala.md",
     "Problemas personales de comunicación.md",
     "Cómo vivir.md",
     "Fleeting/¿Podemos predecir el futuro?.md",
@@ -291,7 +269,6 @@
     "atachment/PIIS0896627322008066.pdf",
     "atachment/The free-energy principle - a rough guide to the brain.pdf",
     "Espacio.md",
-    "Vacío.md",
-    "Manifiesto.md"
+    "Vacío.md"
   ]
 }
