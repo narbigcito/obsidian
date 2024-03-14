@@ -1,4 +1,3 @@
-# Es imposible violar a una mujer viciosa
 
 Created: 16-11-2022 19:52
 

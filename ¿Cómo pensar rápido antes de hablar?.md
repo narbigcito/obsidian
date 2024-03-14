@@ -1,4 +1,3 @@
-# ¿Cómo pensar rápido antes de hablar?
 
 Created: 05-08-2022 00:50
 

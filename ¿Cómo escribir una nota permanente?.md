@@ -1,4 +1,3 @@
-# ¿Cómo escribir una nota permanente?
 
 Created: 03-08-2022 02:14
 
