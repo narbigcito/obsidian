@@ -4,47 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "7d750ae2fcb8e075",
+        "id": "76cda9fd3c35d958",
         "type": "tabs",
         "children": [
           {
-            "id": "3a74aaa8a9030f09",
+            "id": "62aa04eb727a3fbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d2844ab4a645695",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infidelidad.md",
-                "mode": "source",
+                "file": "El smartphone es un objeto de devoción.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "5c8f68c9bb3c767b",
+            "id": "1ee145900ab45a53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Las mujeres tienen mayor consciencia sobre el consentimiento.md",
-                "mode": "source",
+                "file": "Las redes sociales son el panóptico voluntario.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "75e6a896b01b793e",
+            "id": "26eac10661ccd59c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Las mujeres tienen mayores conocimientos de seducción.md",
+                "file": "La deuda es una forma de culpa.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Las mujeres tienen mayores conocimientos de seducción.md",
+                "file": "La deuda es una forma de culpa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Las mujeres tienen mayores conocimientos de seducción.md",
+                "file": "La deuda es una forma de culpa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Las mujeres tienen mayores conocimientos de seducción.md"
+                "file": "La deuda es una forma de culpa.md"
               }
             }
           },
@@ -181,10 +189,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "75e6a896b01b793e",
+  "active": "26eac10661ccd59c",
   "lastOpenFiles": [
-    "Infidelidad.md",
+    "Las redes sociales son el panóptico voluntario.md",
+    "La deuda es una forma de culpa.md",
+    "El smartphone es un objeto de devoción.md",
     "Las mujeres tienen mayores conocimientos de seducción.md",
+    "Infidelidad.md",
     "Las mujeres tienen mayor consciencia sobre el consentimiento.md",
     "Apreciación de la comunidad.md",
     "Erlang.md",
@@ -207,9 +218,6 @@
     "Resuelve/¿Cómo se cálculan los montos restantes de un crédito abierto?.md",
     "Resuelve/¿Cómo saber si una cuota está atrasada?.md",
     "Resuelve/Tabla de amortización.md",
-    "Resuelve/Tabla de amortización teórica..md",
-    "Resuelve/Tabla de amortización del cliente.md",
-    "Resuelve/Cuotas.md",
     "Simulación universo.canvas",
     "atachment/Pasted image 20230330175732.png",
     "atachment/Pasted image 20230330162820.png",
