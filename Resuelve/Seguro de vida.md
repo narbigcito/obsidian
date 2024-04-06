@@ -1,9 +1,7 @@
-# Seguro de vida
-
 Created: 03-08-2022 23:42
 
 ## <span class="pink"> **Seguro de vida:** </span>
-A los clientes se les vende un seguro de vida al solicitar un crédito, esté tiene un costo fijo mensual qué debe cubrír a lo largo del plazo estipulado en `la tabla de amortización`. 
+A los clientes se les vende un seguro de vida al solicitar un crédito, esté tiene un costo fijo mensual qué debe cubrir a lo largo del plazo estipulado en `la tabla de amortización`. 
 
 Por ejemplo, si el costo del seguro es de `$ 1 000.00` y el plazo del crédito es de 24 meses, entonces el cliente deberá pagar en total `$ 24 000.00`. Esto aún si el cliente líquida el crédito en menos tiempo.
 

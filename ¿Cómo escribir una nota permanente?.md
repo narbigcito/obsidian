@@ -3,7 +3,7 @@ Created: 03-08-2022 02:14
 
 ### <span class="pink"> **Idea:** </span>
 La idea que contiene la nota debe estar completa por si misma, de manera qué cualquier persona sin contexto pueda entenderla.
-
+c
 Estás ideas usualmente vendrán de las notas literarias o de las Fleeting ideas.
 
 Una buena manera para hacer una nota qué se entienda por si misma es considerando el críterio [[Q E C]].
