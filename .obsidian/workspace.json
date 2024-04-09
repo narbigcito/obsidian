@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86039cd33c8b1be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autoexplotación sin clases sociales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -170,9 +182,10 @@
   },
   "active": "26eac10661ccd59c",
   "lastOpenFiles": [
-    "¿Realmente queremos ser libres?.md",
     "No trabajamos por nuestras necesidades.md",
+    "Autoexplotación sin clases sociales.md",
     "La deuda es una forma de culpa.md",
+    "¿Realmente queremos ser libres?.md",
     "Los creadores necesitan 3 cosas.md",
     "Libertad para seguir el impulso creador.md",
     "Apreciación de la comunidad.md",
@@ -196,7 +209,6 @@
     "Universo.md",
     "Resuelve/Seguro de vida.md",
     "Masa.md",
-    "¿Cómo escribir una nota permanente?.md",
     "Simulación universo.canvas",
     "atachment/Pasted image 20230330175732.png",
     "atachment/Pasted image 20230330162820.png",
