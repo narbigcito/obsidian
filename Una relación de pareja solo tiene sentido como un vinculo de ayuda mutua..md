@@ -1,4 +1,3 @@
-# Una relación de pareja solo tiene sentido como un vinculo de ayuda mutua.
 
 Created: 03-08-2022 16:47
 

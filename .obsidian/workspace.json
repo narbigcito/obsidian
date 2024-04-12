@@ -4,67 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "76cda9fd3c35d958",
+        "id": "c078128c4f66bce9",
         "type": "tabs",
         "children": [
           {
-            "id": "0498e11a018cb180",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "86039cd33c8b1be1",
+            "id": "bf8df085165dffb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autoexplotación sin clases sociales.md",
-                "mode": "source",
+                "file": "Poner los temas sobre la mesa.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "0c23c73fc304c5f6",
+            "id": "bc7351bff4aad8f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solo dentro de la comunidad es posible la libertad personal.md",
-                "mode": "source",
+                "file": "Rechazo social del sexo con amigos.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "1245225570b7b633",
+            "id": "e337337b3d3413d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enfermedades de la crisis de la libertad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77bcfee77e088606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La libertad es un transito.md",
+                "file": "Enamorarse de los amigos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La libertad es un transito.md",
+                "file": "Enamorarse de los amigos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La libertad es un transito.md",
+                "file": "Enamorarse de los amigos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La libertad es un transito.md"
+                "file": "Enamorarse de los amigos.md"
               }
             }
           },
@@ -201,12 +181,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "77bcfee77e088606",
+  "active": "e337337b3d3413d9",
   "lastOpenFiles": [
-    "Enfermedades de la crisis de la libertad.md",
+    "Rechazo social del sexo con amigos.md",
+    "Enamorarse de los amigos.md",
+    "Poner los temas sobre la mesa.md",
+    "Una relación de pareja solo tiene sentido como un vinculo de ayuda mutua..md",
     "La libertad es un transito.md",
+    "Enfermedades de la crisis de la libertad.md",
     "Solo dentro de la comunidad es posible la libertad personal.md",
     "Autoexplotación sin clases sociales.md",
+    "Velocidad de la luz.md",
     "La deuda es una forma de culpa.md",
     "No trabajamos por nuestras necesidades.md",
     "¿Realmente queremos ser libres?.md",
@@ -224,12 +209,7 @@
     "Prostitución.md",
     "¿Cómo pensar rápido antes de hablar?.md",
     "¿Cómo saber qué proceso usa un puerto?.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
     "Untitled.canvas",
-    "Untitled 1.md",
-    "Templates/Note Template.md",
-    "Untitled 2.md",
     "Simulación universo.canvas",
     "atachment/Pasted image 20230330175732.png",
     "atachment/Pasted image 20230330162820.png",
