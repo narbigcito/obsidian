@@ -1,8 +1,7 @@
-Created: 17-04-2024 18:27
+Created: 21-04-2024 23:19
 
 ## <span class="pink"> **Idea** </span>
-Se debe hablar públicamente sobre sexo sin hacer distinción entre lo licito o ilícito entre lo moral o inmoral, se debe hablar del sexo cómo de algo de lo que nos apropiamos y dirigimos juntos, el sexo no es algo que se debe juzgar, es algo que se debe administrar.
-
+Al rededor del siglo XIX el sexo se convirtió en un tema que importaba al estado, se comenzaron a promover comportamientos sexuales que convenían al estado y a la economía y a su vez se rechazaban aquellos comportamientos sexuales que afectaran al statu quo
 ## <span class="orange"> **Tags**</span>
 <span class="tag"> #visible</span> 
 
@@ -23,5 +22,6 @@ Se debe hablar públicamente sobre sexo sin hacer distinción entre lo licito o 
 [[Ser]]
 [[La decencia de las palabras blanquea los discursos]]
 [[Lo que no promueve al statu quo no debe existir]]
+[[Se debe hablar sobre sexo]]
 ### <span class="purple"> **Sources**</span>
 1. Historia de la sexualidad Vol 1: La voluntad de saber, La hipótesis represiva.

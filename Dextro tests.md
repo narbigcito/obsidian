@@ -1,4 +1,3 @@
-# Dextro tests
 
 Created: 03-08-2022 16:51
 
