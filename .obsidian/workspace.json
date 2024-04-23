@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ce70fe8241c1cac",
+            "id": "8cc9ead4f8963e99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La sexualidad es un tema económico-politico.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e07ceff66c9a464e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El discurso sexual se transforma constantemente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46ffd2f2bd0639d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distintas formas de callar.md",
+                "file": "Nuestra sociedad habla mucho del sexo desde la sombra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distintas formas de callar.md",
+                "file": "Nuestra sociedad habla mucho del sexo desde la sombra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distintas formas de callar.md",
+                "file": "Nuestra sociedad habla mucho del sexo desde la sombra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distintas formas de callar.md"
+                "file": "Nuestra sociedad habla mucho del sexo desde la sombra.md"
               }
             }
           },
@@ -181,8 +156,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "46ffd2f2bd0639d6",
+  "active": "8cc9ead4f8963e99",
   "lastOpenFiles": [
+    "Nuestra sociedad habla mucho del sexo desde la sombra.md",
+    "Nuestra sociedad ha acumulado más discursos sobre el sexo que ninguna otra..md",
+    "Arquitectura represiva.md",
     "El discurso sexual se transforma constantemente.md",
     "Distintas formas de callar.md",
     "La sexualidad es un tema económico-politico.md",
@@ -206,9 +184,6 @@
     "Enfermedades de la crisis de la libertad.md",
     "Solo dentro de la comunidad es posible la libertad personal.md",
     "Autoexplotación sin clases sociales.md",
-    "Velocidad de la luz.md",
-    "La deuda es una forma de culpa.md",
-    "No trabajamos por nuestras necesidades.md",
     "Untitled.canvas",
     "Simulación universo.canvas",
     "atachment/Pasted image 20230330175732.png",
