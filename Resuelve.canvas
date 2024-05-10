@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"8d1621f36f06a5f1","type":"text","text":"SAE 1er crédito","x":-260,"y":-232,"width":160,"height":65},
+		{"id":"85ba3c6e73130ef9","type":"text","text":"SAE 2do crédito","x":-20,"y":-232,"width":140,"height":65},
+		{"id":"6ef5db60eca057e1","type":"text","text":"Reincorporados","x":-65,"y":60,"width":230,"height":60},
+		{"id":"171cbc176ad8b44c","type":"text","text":"Insolutos","x":-250,"y":60,"width":140,"height":60},
+		{"id":"02a2293228e24e28","type":"text","text":"Ahorros","x":200,"y":60,"width":160,"height":60},
+		{"id":"a2d7c392d0e528b2","type":"text","text":"FMG 1er crédito","x":-460,"y":-232,"width":140,"height":65},
+		{"id":"c596ec55e9c9904e","x":-680,"y":30,"width":160,"height":60,"type":"text","text":"1 firmante"},
+		{"id":"eb6dc889fe16f2dd","x":-515,"y":35,"width":250,"height":50,"type":"text","text":"2 firmante"},
+		{"id":"d97eed66fbef0f49","type":"text","text":"FMG 2do crédito","x":-680,"y":-232,"width":140,"height":65},
+		{"id":"3f024a3ee0c5f818","x":-930,"y":25,"width":250,"height":60,"type":"text","text":"fmg 2do credito"}
+	],
+	"edges":[
+		{"id":"44c8e69d45e59345","fromNode":"85ba3c6e73130ef9","fromSide":"bottom","toNode":"6ef5db60eca057e1","toSide":"top","color":"5"},
+		{"id":"896c446ef65f3b0f","fromNode":"8d1621f36f06a5f1","fromSide":"bottom","toNode":"171cbc176ad8b44c","toSide":"top","color":"4"},
+		{"id":"118c5f3db70ddb74","fromNode":"85ba3c6e73130ef9","fromSide":"bottom","toNode":"02a2293228e24e28","toSide":"top","color":"5"},
+		{"id":"c420e6a78642794c","fromNode":"a2d7c392d0e528b2","fromSide":"bottom","toNode":"c596ec55e9c9904e","toSide":"top"},
+		{"id":"df39a731bbf66f14","fromNode":"a2d7c392d0e528b2","fromSide":"bottom","toNode":"eb6dc889fe16f2dd","toSide":"top"},
+		{"id":"fd0c5eb97dabfe70","fromNode":"d97eed66fbef0f49","fromSide":"bottom","toNode":"3f024a3ee0c5f818","toSide":"top"}
+	]
+}
