@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c078128c4f66bce9",
+        "id": "79827cbaac0a66e0",
         "type": "tabs",
         "children": [
           {
-            "id": "f849aa3672928d00",
+            "id": "3179b6a39e66ba89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infidelidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "644d2af7c789e4fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intimidad con personas diferentes a nosotros.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d13c09fb5c3365e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tratar a los intereses sexuales cómo presas.md",
+                "file": "Analizar problemas ajenos.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "dbcb11d84fe603f5",
+            "id": "5352c0ac8b7c6946",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
+                "file": "Es revelando lo qué hacemos y cómo lo hacemos lo que nos permite corregirnos..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f23968176d09cfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conocimiento en el contexto téorico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slut",
+                "query": "apropi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
+                "file": "Conocimiento en el contexto téorico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
+                "file": "Conocimiento en el contexto téorico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md"
+                "file": "Conocimiento en el contexto téorico.md"
               }
             }
           },
@@ -193,13 +181,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dbcb11d84fe603f5",
+  "active": "8f23968176d09cfa",
   "lastOpenFiles": [
-    "Tratar a los intereses sexuales cómo presas.md",
+    "Es revelando lo qué hacemos y cómo lo hacemos lo que nos permite corregirnos..md",
+    "Conocimiento en el contexto téorico.md",
+    "Analizar problemas ajenos.md",
+    "Yonkie.md",
     "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
-    "Sometimiento del otro cómo forma de placer.md",
+    "Tratar a los intereses sexuales cómo presas.md",
     "Intimidad con personas diferentes a nosotros.md",
     "Infidelidad.md",
+    "Sometimiento del otro cómo forma de placer.md",
     "Enamorarse de los amigos.md",
     "El poder cómo señuelo.md",
     "Medicalización de lo diferente.md",
@@ -218,10 +210,6 @@
     "Historia de la sexualidad, V1 La voluntad de saber.md",
     "¿Cómo tener un viaje con dextrometorfano?.md",
     "Dextro tests.md",
-    "Yonkie.md",
-    "DXM Cuarto Stage.md",
-    "Abuso de poder.md",
-    "La decencia de las palabras blanquea los discursos.md",
     "Simulación universo.canvas",
     "atachment/Pasted image 20230330175732.png",
     "atachment/Pasted image 20230330162820.png",
