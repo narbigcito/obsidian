@@ -1,7 +1,7 @@
 Created: 14-05-2024 19:07
 
 ## <span class="pink"> **Idea** </span>
-Es justamente por qué estamos condicionados, pero no determinados, condicionados, pero consientes del condicionamiento que somos seres aptos para luchar por la libertad cómo proceso y no cómo meta, cómo una lucha constante por establecer por nosotros mismos la forma en que queremos ser en el mundo.
+Es justamente por qué estamos condicionados, pero no determinados, condicionados, pero consientes del condicionamiento, que somos seres aptos para luchar por la libertad cómo proceso y no cómo meta, cómo una lucha constante por establecer por nosotros mismos la forma en que queremos ser en el mundo.
 
 Dicen que en nuestro ADN se encuentra todo nuestro futuro, pero eso no significa que nuestra libertad se ahogue en nuestra herencia.
 
@@ -9,7 +9,7 @@ Nos movemos con un poco de libertad, pero con la libertad suficiente para entre 
 
 Podemos tomar nuestra libertad cómo una hazaña creadora que nos permita vivir experiencias y riesgos que puedan ayudarnos establecer quienes somos en el marco entre lo heredado y lo adquirido.
 
-La educación puede ser una de las herramientas que nos permita modificar las estructuras materiales que puedan modificar la forma en que se condicionan a nuevos humanos otorgándoles tal vez algunas nuevas posibilidades, posibilidades a las que nosotros no tuvimos acceso.
+La educación puede ser una de las herramientas que nos permita modificar las estructuras materiales que puedan cambiar la forma en que se condicionan a nuevos humanos otorgándoles tal vez algunas nuevas posibilidades, posibilidades a las que nosotros no tuvimos acceso.
 
 
 
