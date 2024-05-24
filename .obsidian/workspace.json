@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79827cbaac0a66e0",
+        "id": "37aeec63ffb1fc48",
         "type": "tabs",
         "children": [
           {
-            "id": "118f3d2343d465d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La educación es un acto politíco.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2569206c81baf07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aprender el lenguaje de los alumnos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "262351ae813dbd48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El hambre de justicia es un requisito para ser un buen profesor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ead3d724ef609286",
+            "id": "6c76cc1d2c406cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,15 +20,43 @@
             }
           },
           {
-            "id": "66a410c6a92df5da",
+            "id": "7882b821786155e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Aprendemos con todo el cuerpo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec500288dbd2dc49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La ideología dominante nos vuelve miopes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5324f103f8414c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relación entre miedo y dificultad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apropi",
+                "query": "caminos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Relación entre miedo y dificultad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Relación entre miedo y dificultad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Relación entre miedo y dificultad.md"
+              }
             }
           },
           {
@@ -197,13 +193,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "66a410c6a92df5da",
+  "active": "d5324f103f8414c1",
   "lastOpenFiles": [
+    "La ideología dominante nos vuelve miopes.md",
     "La humildad es un requisito para ser un buen profesor.md",
+    "Relación entre miedo y dificultad.md",
+    "Semaforo emocional.md",
+    "Aprendemos con todo el cuerpo.md",
+    "Analizar problemas ajenos.md",
+    "Medicalización de lo diferente.md",
+    "Apreciación de la comunidad.md",
+    "El smartphone es un objeto de devoción.md",
     "El hambre de justicia es un requisito para ser un buen profesor.md",
-    "Poner los temas sobre la mesa.md",
     "Aprender el lenguaje de los alumnos.md",
     "La educación es un acto politíco.md",
+    "Poner los temas sobre la mesa.md",
     "Conocimiento en el contexto téorico.md",
     "Los profesores suelen hablar de arriba hacia abajo.md",
     "Los educadores necesitan una limitación en su voz con respecto a su forma de entender al mundo.md",
@@ -212,20 +216,12 @@
     "Estamos condicionados, pero no determinados para usar la educación para luchar por la libertad.md",
     "Extrauniversal.md",
     "Es revelando lo qué hacemos y cómo lo hacemos lo que nos permite corregirnos..md",
-    "Analizar problemas ajenos.md",
     "Yonkie.md",
     "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
     "Tratar a los intereses sexuales cómo presas.md",
     "Intimidad con personas diferentes a nosotros.md",
     "Infidelidad.md",
-    "Sometimiento del otro cómo forma de placer.md",
-    "Enamorarse de los amigos.md",
-    "El poder cómo señuelo.md",
-    "Medicalización de lo diferente.md",
-    "Mejor que ocultar o ignorar es discriminar para rechazar conductas..md",
     "Resuelve.canvas",
-    "En el sigo XVIII el discurso sexual se centraba en el matrimonio.md",
-    "Las conductas sexuales que no aportan a la economía son rechazadas.md",
     "Simulación universo.canvas",
     "atachment/Pasted image 20230330175732.png",
     "atachment/Pasted image 20230330162820.png",
