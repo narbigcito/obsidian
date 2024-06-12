@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb6b1aae5ed21cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debemos lidiar con realidades incómodas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debemos lidiar con realidades incómodas.md",
+                "file": "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Debemos lidiar con realidades incómodas.md",
+                "file": "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debemos lidiar con realidades incómodas.md"
+                "file": "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md"
               }
             }
           },
@@ -181,12 +169,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fb6b1aae5ed21cba",
+  "active": "11e9e2ff8daaf642",
   "lastOpenFiles": [
+    "Tratar a los intereses sexuales cómo presas.md",
+    "Debemos lidiar con realidades incómodas.md",
     "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
     "La no monogamia sin consentimiento se trata en secreto.md",
-    "Debemos lidiar con realidades incómodas.md",
-    "Tratar a los intereses sexuales cómo presas.md",
     "La humildad es un requisito para ser un buen profesor.md",
     "Intimidad con personas diferentes a nosotros.md",
     "No permitir que el miedo nos inmovilicé.md",
