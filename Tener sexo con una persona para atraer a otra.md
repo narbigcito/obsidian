@@ -16,5 +16,6 @@ Una practica muy violenta es el sexo de venganza, tener sexo con una persona par
 [[Se debe hablar sobre sexo]]
 [[Las expectativas nos quitan oportunidades]]
 [[Poner los temas sobre la mesa]]
+[[Ser honesto con nuestros intereses puede ser muy beneficioso]]
 ### <span class="purple"> **Sources**</span>
 1. The ethical slut, Janet W. Hardy and Dossie Easton, The unethical Slut 
