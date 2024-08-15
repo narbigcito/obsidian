@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "544933047e270ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El discurso es una violencia que se ejerce sobre las cosas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9c9fd231af66df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El conocimiento y la historia no siguen una línea progresiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1c99a1ede11dc580",
             "type": "leaf",
             "state": {
@@ -42,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d107c644066f33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "En el sigo XIX la sexualidad se redujo a la de la pareja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15fba4c9a6199796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enmascaramiento del sexo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El discurso es una violencia que se ejerce sobre las cosas.md",
+                "file": "Enmascaramiento del sexo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El discurso es una violencia que se ejerce sobre las cosas.md",
+                "file": "Enmascaramiento del sexo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El discurso es una violencia que se ejerce sobre las cosas.md"
+                "file": "Enmascaramiento del sexo.md"
               }
             }
           },
@@ -180,14 +181,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "544933047e270ef2",
+  "active": "15fba4c9a6199796",
   "lastOpenFiles": [
-    "La no monogamia sin consentimiento se trata en secreto.md",
+    "En el sigo XIX la sexualidad se redujo a la de la pareja.md",
+    "Enmascaramiento del sexo.md",
     "Aceptar el azar cómo forma de entender a la realidad.md",
+    "El conocimiento y la historia no siguen una línea progresiva.md",
+    "El discurso es una violencia que se ejerce sobre las cosas.md",
+    "La no monogamia sin consentimiento se trata en secreto.md",
     "Tener sexo con una persona para atraer a otra.md",
     "No permitir que el miedo nos inmovilicé.md",
-    "El discurso es una violencia que se ejerce sobre las cosas.md",
-    "El conocimiento y la historia no siguen una línea progresiva.md",
     "Abuso de poder.md",
     "Ser amigable es la mejor forma para ser atractivo.md",
     "Ser honesto con nuestros intereses puede ser muy beneficioso.md",
@@ -208,8 +211,6 @@
     "Las expectativas nos quitan oportunidades.md",
     "Analizar problemas ajenos.md",
     "Es revelando lo qué hacemos y cómo lo hacemos lo que nos permite corregirnos..md",
-    "Conocimiento en el contexto téorico.md",
-    "Los grupos dominantes buscan separarse de los dominados.md",
     "Untitled.canvas",
     "Resuelve.canvas",
     "Simulación universo.canvas",

@@ -3,11 +3,11 @@ Created: 07-08-2024 14:30
 ## <span class="pink"> **Idea** </span>
 En los discursos asignamos valores y reglas de comportamientos sobre objetos y agentes.
 
-Cuándo realizamos afirmaciones cómo: "La pelota es verde" estamos asignando la regla de asociación entre el verde y la pelota, creando un sistema de valores sobre la verdad en el que decir que la pelota es roja por ejemplo tiene un valor menor en cuánto a lo verdadero con respecto a la afirmación la pelota es verde.
+Cuándo realizamos afirmaciones cómo: "La pelota es verde" estamos asignando la regla de asociación entre el verde y la pelota, creando un sistema de valores sobre la verdad en el que decir que "la pelota es roja" por ejemplo tiene un valor menor en cuánto a lo verdadero con respecto a la afirmación " la pelota es verde".
 
 Obviamente estás afirmaciones no necesariamente tienen una correlación con respecto a la experiencia y justamente por esto es que es violento, ya que se produce una realidad discursiva que muchas veces se manifiesta por encima de la realidad empirica.
 
-Esto es especialmente peligroso si nadie ha visto la pelota de la que se habla, ya que en esté caso al no haber una realidad empirica entonces la única realidad al alcance es la de los discursos por sobre la pelota que nadie ha visto y para lo cuál se genera una relación de poder
+Esto es especialmente peligroso si nadie ha visto la pelota de la que se habla, ya que en esté caso al no haber una realidad empirica entonces la única realidad al alcance es la de los discursos y sistemas de valores sobre la pelota que nadie ha visto y para lo cuál se genera una relación de poder que busca definir qué es real.
 
 ## <span class="orange"> **Tags**</span>
 <span class="tag"> #visible</span> 
