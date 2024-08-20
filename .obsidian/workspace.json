@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de9b2af2f8f1886d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La ciencia se usó cómo medio para producir verdades convenientes para el estado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enmascaramiento del sexo.md",
+                "file": "La ciencia se usó cómo medio para producir verdades convenientes para el estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enmascaramiento del sexo.md",
+                "file": "La ciencia se usó cómo medio para producir verdades convenientes para el estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enmascaramiento del sexo.md"
+                "file": "La ciencia se usó cómo medio para producir verdades convenientes para el estado.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "15fba4c9a6199796",
+  "active": "de9b2af2f8f1886d",
   "lastOpenFiles": [
-    "En el sigo XIX la sexualidad se redujo a la de la pareja.md",
     "Enmascaramiento del sexo.md",
+    "La ciencia se usó cómo medio para producir verdades convenientes para el estado.md",
+    "En el sigo XIX la sexualidad se redujo a la de la pareja.md",
     "Aceptar el azar cómo forma de entender a la realidad.md",
     "El conocimiento y la historia no siguen una línea progresiva.md",
     "El discurso es una violencia que se ejerce sobre las cosas.md",
@@ -210,7 +223,6 @@
     "Dibujo en dextro..md",
     "Las expectativas nos quitan oportunidades.md",
     "Analizar problemas ajenos.md",
-    "Es revelando lo qué hacemos y cómo lo hacemos lo que nos permite corregirnos..md",
     "Untitled.canvas",
     "Resuelve.canvas",
     "Simulación universo.canvas",
