@@ -8,55 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c99a1ede11dc580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aceptar el azar cómo forma de entender a la realidad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d107c644066f33e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "En el sigo XIX la sexualidad se redujo a la de la pareja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15fba4c9a6199796",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enmascaramiento del sexo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "de9b2af2f8f1886d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "La ciencia se usó cómo medio para producir verdades convenientes para el estado.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f8aa4404a1ba4c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La sexualidad en el siglo XIX se dividía en dos registros diferentes del saber.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9afdcf04195f814b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ars erótica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +182,11 @@
   },
   "active": "de9b2af2f8f1886d",
   "lastOpenFiles": [
-    "Enmascaramiento del sexo.md",
+    "La sexualidad en el siglo XIX se dividía en dos registros diferentes del saber.md",
+    "Ars erótica.md",
+    "Arquitectura represiva.md",
     "La ciencia se usó cómo medio para producir verdades convenientes para el estado.md",
+    "Enmascaramiento del sexo.md",
     "En el sigo XIX la sexualidad se redujo a la de la pareja.md",
     "Aceptar el azar cómo forma de entender a la realidad.md",
     "El conocimiento y la historia no siguen una línea progresiva.md",
@@ -220,9 +210,6 @@
     "Untitled 1.canvas",
     "¿Cómo tener un viaje con dextrometorfano?.md",
     "DXM Stages.md",
-    "Dibujo en dextro..md",
-    "Las expectativas nos quitan oportunidades.md",
-    "Analizar problemas ajenos.md",
     "Untitled.canvas",
     "Resuelve.canvas",
     "Simulación universo.canvas",
