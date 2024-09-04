@@ -9,6 +9,10 @@ En cuánto a la segunda, la ars erótica, funciona más a partir de la experienc
 
 La ars erótica no responde a la utilidad ni a lo prohibido, sino más bien, responde al placer y su intensidad, así cómo a los sentidos.
 
+Esté saber al contrario de la scientia sexualis, se manifiesta de forma esoterica.
+
+Entre sus saberes se incluyen perder los límites del tiempo, elixires de la vida, el placer único o el exilio del la muerte
+
 ## <span class="orange"> **Tags**</span>
 <span class="tag"> #visible</span> 
 
