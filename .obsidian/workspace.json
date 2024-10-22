@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ac75b6aa4385836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Validar las emociones de nuestra pareja.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf1819e34544e11f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buscar a una persona que sea perfecta para nosotros.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "96a24a3b15dadbda",
             "type": "leaf",
             "state": {
@@ -42,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a9b490186daec5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Las discusiones de pareja no son algo a evitar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e13ebacc32e0407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discusiones justas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 471.5
   },
   "right": {
     "id": "a4a0bfa36d548ac3",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buscar a una persona que sea perfecta para nosotros.md",
+                "file": "Discusiones justas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buscar a una persona que sea perfecta para nosotros.md",
+                "file": "Discusiones justas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buscar a una persona que sea perfecta para nosotros.md"
+                "file": "Discusiones justas.md"
               }
             }
           },
@@ -181,11 +181,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bf1819e34544e11f",
+  "active": "4e13ebacc32e0407",
   "lastOpenFiles": [
-    "Validar las emociones de nuestra pareja.md",
+    "Las discusiones de pareja no son algo a evitar.md",
+    "Discusiones justas.md",
+    "Descargar un video de Youtube fácilmente.md",
+    "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
     "Pocas cosas generan más intimidad que compartir vulnerabilidad.md",
     "Buscar a una persona que sea perfecta para nosotros.md",
+    "Validar las emociones de nuestra pareja.md",
     "Sentir no es un crimen.md",
     "La libertad es un transito.md",
     "Los celos suelen sentirse cómo una competencia.md",
@@ -205,10 +209,6 @@
     "La no monogamia sin consentimiento se trata en secreto.md",
     "Tener sexo con una persona para atraer a otra.md",
     "No permitir que el miedo nos inmovilicé.md",
-    "Abuso de poder.md",
-    "Ser honesto con nuestros intereses puede ser muy beneficioso.md",
-    "A las personas les gusta ser notadas.md",
-    "Buscar sexo con personas con quienes lo harías de nuevo..md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

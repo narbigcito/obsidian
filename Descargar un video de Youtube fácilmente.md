@@ -1,5 +1,3 @@
-# Descargar un video de Youtube fácilmente
-
 Created: 04-08-2022 01:01
 
 ## <span class="pink"> **Idea** </span>
