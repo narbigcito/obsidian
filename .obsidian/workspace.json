@@ -16,7 +16,9 @@
                 "file": "Pocas cosas generan más intimidad que compartir vulnerabilidad.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Pocas cosas generan más intimidad que compartir vulnerabilidad"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Las discusiones de pareja no son algo a evitar.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Las discusiones de pareja no son algo a evitar"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Discusiones justas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Discusiones justas"
             }
           }
         ],
@@ -64,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -79,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -87,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discusiones justas.md",
+                "file": "Estados de la consciencia sexual.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Estados de la consciencia sexual"
             }
           },
           {
@@ -127,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discusiones justas.md",
+                "file": "Estados de la consciencia sexual.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Estados de la consciencia sexual"
             }
           },
           {
@@ -141,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -150,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discusiones justas.md"
-              }
+                "file": "Estados de la consciencia sexual.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Estados de la consciencia sexual"
             }
           },
           {
@@ -159,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -183,8 +205,10 @@
   },
   "active": "4e13ebacc32e0407",
   "lastOpenFiles": [
-    "Las discusiones de pareja no son algo a evitar.md",
+    "Estados de la consciencia sexual.canvas",
     "Discusiones justas.md",
+    "Ser amigable es la mejor forma para ser atractivo.md",
+    "Las discusiones de pareja no son algo a evitar.md",
     "Descargar un video de Youtube fácilmente.md",
     "Los sistemas jerárquicos producen víctimas tanto arriba cómo abajo.md",
     "Pocas cosas generan más intimidad que compartir vulnerabilidad.md",
@@ -194,7 +218,6 @@
     "La libertad es un transito.md",
     "Los celos suelen sentirse cómo una competencia.md",
     "Cuándo te relacionas con alguien  con hijos, también te relacionas con sus hijos..md",
-    "Ser amigable es la mejor forma para ser atractivo.md",
     "La educación es un acto politíco.md",
     "La sexualidad en el siglo XIX se dividía en dos registros diferentes del saber.md",
     "La ciencia se usó cómo medio para producir verdades convenientes para el estado.md",
@@ -208,9 +231,7 @@
     "El discurso es una violencia que se ejerce sobre las cosas.md",
     "La no monogamia sin consentimiento se trata en secreto.md",
     "Tener sexo con una persona para atraer a otra.md",
-    "No permitir que el miedo nos inmovilicé.md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Untitled.canvas",
     "Resuelve.canvas",
     "Simulación universo.canvas",
